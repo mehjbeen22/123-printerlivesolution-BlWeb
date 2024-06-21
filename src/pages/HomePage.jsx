@@ -47,19 +47,19 @@ function HomePage() {
 
         <div className="flex justify-center space-x-4  bg-slate-300 p-5 shadow-inner">
           <Link
-            to="/downloaddrivers"
+            // to="/downloaddrivers"
             className="bg-[#312e81] text-[#f1f5f9] py-2 px-4 rounded shadow hover:bg-[#251e70] transition duration-300"
           >
             New Printer Setup
           </Link>
           <Link
-            to="/downloaddrivers"
+            // to="/downloaddrivers"
             className="bg-[#312e81] text-[#f1f5f9] py-2 px-4 rounded shadow hover:bg-[#251e70] transition duration-300"
           >
             Fix Online Printer
           </Link>
           <Link
-            to="/downloaddrivers"
+            // to="/downloaddrivers"
             className="bg-[#312e81] text-[#f1f5f9] py-2 px-4 rounded shadow hover:bg-[#251e70] transition duration-300"
           >
             Update Printer Drivers
