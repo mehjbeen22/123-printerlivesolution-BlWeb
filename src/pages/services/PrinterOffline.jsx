@@ -1,6 +1,6 @@
 import React from 'react';
 
-const PrinterSetup = () => {
+const PrinterOffline = () => {
   return (
     <main className="flex justify-center items-center p-5">
       <section className="border w-[95%] p-10 bg-gray-100 shadow-xl">
@@ -24,7 +24,7 @@ const PrinterSetup = () => {
   );
 };
 
-export default PrinterSetup;
+export default PrinterOffline;
 
 const printerSetupContent = [
   {
